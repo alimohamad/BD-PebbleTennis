@@ -1,0 +1,45 @@
+html{
+
+	text-align: center;
+	
+	font-family: 'Exo', sans-serif;
+	
+}
+
+.container-fluid{
+
+	min-height: 100%;
+
+}
+
+#navbar a{
+
+	color: white;
+
+
+}
+
+
+header{
+
+	background-color: #B7D236;
+	
+	color: white;
+
+}
+
+#About{
+
+	background-color: #5C5C66;
+	
+	color: white;
+
+
+}
+
+#FAQ{
+
+	background-color:  #D4EB66;
+
+
+}
